@@ -1862,7 +1862,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff; }
 
 .home-banner-area {
-  background: url(../img/home-banner-bg.jpg) center;
+  background: url(../img/home-banner-bg.png) center;
   background-size: cover; }
   .home-banner-area .banner-img {
     text-align: right; }
@@ -1882,7 +1882,7 @@ body.mobile-nav-active #mobile-nav-toggle {
       height: 700px !important; } }
 
 .banner-area {
-  background: url(../img/banner.jpg) center;
+  background: url(../img/home-banner-bg.png) center;
   background-size: cover; }
   .banner-area .banner-content {
     padding: 162px 0; }
